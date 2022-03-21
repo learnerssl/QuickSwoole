@@ -1,0 +1,8 @@
+# 文件夹
+/vendor
+/docker-config
+/.idea
+
+# 文件
+composer.lock
+docker-compose.yml

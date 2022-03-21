@@ -1,0 +1,23 @@
+{
+  "name": "quickswoole/quickswoole",
+  "description": "Modern High performance AOP and Coroutine PHP Framework",
+  "type": "project",
+  "keywords": [
+    "php",
+    "swoole"
+  ],
+  "license": "Apache-2.0",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/",
+      "QuickSwoole\\": "system/"
+    }
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://mirrors.aliyun.com/composer/"
+    }
+  }
+}
