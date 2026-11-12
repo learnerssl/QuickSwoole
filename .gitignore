@@ -6,3 +6,4 @@
 # 文件
 composer.lock
 docker-compose.yml
+/.codegraph/
